@@ -10,7 +10,7 @@ This repository hosts SQL lab solutions for the WeCloudData Data Engineering Boo
 # Database Setup
  Follow the step-by-step guide available at [HERE](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) to download Retail Database. Additionally, the superstore dataset, used in our exercises, is available in this repository.
 
-#Usage
+# Usage
 To use the SQL files in this repository for practice:
 *Set Up the Database:* Ensure the Retail Database and superstore dataset are properly installed as per the instructions in the "Database Setup" section.
 *Open Your SQL:* Connect to your MySQL database using your preferred SQL client or command-line interface.
